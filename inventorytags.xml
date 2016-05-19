@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="inventorystyle.xsl"?> 
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="inventoryschema.xsd"> 
+<inventory>
+  <name>Artwork </name>
+  <description>Hand Crafted Artwork </description>
+  <maxPrice>10.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Artwork </name>
+  <description>Hand Crafted Artwork </description>
+  <maxPrice>15.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Artwork </name>
+  <description>Hand Crafted Artwork </description>
+  <maxPrice>25.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Closthes Men </name>
+  <description>Men's Clothing </description>
+  <maxPrice>2.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Closthes Men </name>
+  <description>Men's Clothing </description>
+  <maxPrice>5.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Closthes Men </name>
+  <description>Men's Clothing </description>
+  <maxPrice>10.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Closthes Men </name>
+  <description>Men's Clothing </description>
+  <maxPrice>45.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Closthes Men </name>
+  <description>Men's Clothing </description>
+  <maxPrice>200.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Infant </name>
+  <description>Infant Clothes ages birth -2 years </description>
+  <maxPrice>3.25</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Infant </name>
+  <description>Infant Clothes ages birth -2 years </description>
+  <maxPrice>5.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Infant </name>
+  <description>Infant Clothes ages birth -2 years </description>
+  <maxPrice>6.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Toddler </name>
+  <description>Toddler closthes ages 2 - 6 years </description>
+  <maxPrice>8.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Toddler </name>
+  <description>Toddler closthes ages 2 - 6 years </description>
+  <maxPrice>10.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Toddler </name>
+  <description>Toddler closthes ages 2 - 6 years </description>
+  <maxPrice>12.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Toddler </name>
+  <description>Toddler closthes ages 2 - 6 years </description>
+  <maxPrice>55.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Baby Toddler </name>
+  <description>Toddler closthes ages 2 - 6 years </description>
+  <maxPrice>70.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Boy </name>
+  <description>Boys Clothing sizes 7 through 16 </description>
+  <maxPrice>1.99</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Boy </name>
+  <description>Boys Clothing sizes 7 through 16 </description>
+  <maxPrice>5.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Boy </name>
+  <description>Boys Clothing sizes 7 through 16 </description>
+  <maxPrice>8.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Boy </name>
+  <description>Boys Clothing sizes 7 through 16 </description>
+  <maxPrice>55.55</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Girl </name>
+  <description>Girls Clothing size 7 through 16 </description>
+  <maxPrice>4.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Girl </name>
+  <description>Girls Clothing size 7 through 16 </description>
+  <maxPrice>13.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Girl </name>
+  <description>Girls Clothing size 7 through 16 </description>
+  <maxPrice>35.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>7.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>10.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>10.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>15.75</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>24.25</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>27.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>35.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>45.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Clothes Ladies </name>
+  <description>Ladies Clothing sizes 2 - 16 </description>
+  <maxPrice>75.00</maxPrice>
+</inventory>
+<inventory>
+  <name>DVD Child </name>
+  <description>Cartoons </description>
+  <maxPrice>7.50</maxPrice>
+</inventory>
+<inventory>
+  <name>DVD Kitchen </name>
+  <description>How to Cook </description>
+  <maxPrice>15.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Adult </name>
+  <description>Adult Bedroom Furniture </description>
+  <maxPrice>50.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Adult </name>
+  <description>Adult Bedroom Furniture </description>
+  <maxPrice>85.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Adult </name>
+  <description>Adult Bedroom Furniture </description>
+  <maxPrice>110.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Adult </name>
+  <description>Adult Bedroom Furniture </description>
+  <maxPrice>225.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Adult </name>
+  <description>Adult Bedroom Furniture </description>
+  <maxPrice>250.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture BR </name>
+  <description>Bed  Room Furniture </description>
+  <maxPrice>155.75</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Child </name>
+  <description>Child Bedroom Furniture </description>
+  <maxPrice>18.99</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Child </name>
+  <description>Child Bedroom Furniture </description>
+  <maxPrice>20.99</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Child </name>
+  <description>Child Bedroom Furniture </description>
+  <maxPrice>50.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture Child </name>
+  <description>Child Bedroom Furniture </description>
+  <maxPrice>55.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture DR </name>
+  <description>Dining Room Furniture </description>
+  <maxPrice>150.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture DR </name>
+  <description>Dining Room Furniture </description>
+  <maxPrice>222.80</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture LR </name>
+  <description>Living Room Furniture </description>
+  <maxPrice>20.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Furniture LR </name>
+  <description>Living Room Furniture </description>
+  <maxPrice>250.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Laptop </name>
+  <description>Dell </description>
+  <maxPrice>100.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Toys Baby </name>
+  <description>Baby Toys Ages birth - 2 years </description>
+  <maxPrice>3.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Toys Baby </name>
+  <description>Baby Toys Ages birth - 2 years </description>
+  <maxPrice>5.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Toys Baby </name>
+  <description>Baby Toys Ages birth - 2 years </description>
+  <maxPrice>8.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Toys Child </name>
+  <description>Baby Toyes ages 5 and above </description>
+  <maxPrice>8.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Toys Child </name>
+  <description>Baby Toyes ages 5 and above </description>
+  <maxPrice>12.00</maxPrice>
+</inventory>
+<inventory>
+  <name>Toys Toddler </name>
+  <description>Baby Toys ages 2 - 4 years </description>
+  <maxPrice>4.50</maxPrice>
+</inventory>
+<inventory>
+  <name>Toys Toddler </name>
+  <description>Baby Toys ages 2 - 4 years </description>
+  <maxPrice>6.00</maxPrice>
+</inventory>
+</list>
